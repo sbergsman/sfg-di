@@ -22,5 +22,4 @@ public class GreetingServiceConfig {
     SetterInjectedGreetingService setterInjectedGreetingService(){
         return new SetterInjectedGreetingService();
     }
-
 }
